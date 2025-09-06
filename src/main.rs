@@ -163,7 +163,7 @@ fn main() {
         .iter()
         .filter(|a| !disk_announcments.contains(&a))
         .for_each(|a| {
-            println!("Neue Verkehrsmeldung 🚉🚍\n{}\nvom {}\nMehr Infos: {}\n\nAutomatisiert durch OPNV-Graz Bot 🤖 ()", a.content, a.datetime.format("%F %T"), a.link);
+            println!("Neue Verkehrsmeldung 🚉🚍\n{} vom {}\nMehr Infos: {}\nAutomatisiert durch OPNV-Graz Bot 🤖 (https://github.com/thomaslienbacher/graz-opnv-bot)", a.content, a.datetime.format("%F %T"), a.link);
             new_found = true;
         });
 
