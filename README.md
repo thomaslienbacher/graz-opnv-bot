@@ -10,3 +10,9 @@ to send the messages to the default room. This means a chat with the receiving a
 must already exist.
 Run the bot at least once to setup the database.
 Schedule the `execute-bot.sh` script in the crontab.
+
+Crontab example:
+```
+15,35,55        *       *       *       *       cd /home/thomas/graz-opnv-bot && ./execute-bot.sh >> bot.log
+```
+

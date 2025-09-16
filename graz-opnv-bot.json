@@ -1,5 +1,25 @@
 [
   {
+    "content": "Umleitung ab 30. Juni bis 31. Dezember.",
+    "link": "https://www.holding-graz.at/de/linie-52-62-umleitung-zentralfriedhof-puntigam/",
+    "datetime": "2025-06-23T15:33:52+02:00"
+  },
+  {
+    "content": "Freifahrt für Kinder, dazu Änderungen bei manchen Linien.",
+    "link": "https://www.holding-graz.at/de/ferienfahrplan-ab-5-juli/",
+    "datetime": "2025-06-30T10:10:44+02:00"
+  },
+  {
+    "content": "Alle Infos zum Ersatzverkehr in den Sommerferien (inkl. Plänen)",
+    "link": "https://www.holding-graz.at/de/bauphase-3-schienenersatzverkehr-ab-5-juli/",
+    "datetime": "2025-06-30T12:14:25+02:00"
+  },
+  {
+    "content": "31er wendet Harter Straße, Gelenkbusse beim 62er, Taktverdichtung beim 52er.",
+    "link": "https://www.holding-graz.at/de/linien-31-52-62-aenderungen-ab-advent/",
+    "datetime": "2025-06-30T14:14:26+02:00"
+  },
+  {
     "content": "Haltestelle Aspasiagasse Richtung Stifting wird ab 1.8. dauerhaft verlegt.",
     "link": "https://www.holding-graz.at/de/linien-82-n7-haltestellenverlegung/",
     "datetime": "2025-07-30T10:55:44+02:00"
@@ -78,5 +98,55 @@
     "content": "Haltestelle „Dr.-Plochl-Straße“ Richtung Thondorf bis 17.10. verlegt.",
     "link": "https://www.holding-graz.at/de/linien-34-n8-haltestellenverlegung/",
     "datetime": "2025-09-05T13:48:16+02:00"
+  },
+  {
+    "content": "10.9., 13.07 Uhr: Unfall, Ersatzverkehr Puntigam - Jakominiplatz",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-5-ersatzverkehr/",
+    "datetime": "2025-09-10T13:09:47+02:00"
+  },
+  {
+    "content": "10.9., 15.34 Uhr: Unfall, Linie muss 3 Haltestellen auslassen",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-64-umleitung/",
+    "datetime": "2025-09-10T15:36:35+02:00"
+  },
+  {
+    "content": "10.9., 17:10: Aufgrund des starken Verkehrsaufkommens kommt es zu Verspätungen.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52-verspaetungen/",
+    "datetime": "2025-09-10T17:11:36+02:00"
+  },
+  {
+    "content": "10.9. 15.30 Uhr: Aufgrund eines Unfalls werden 3 Haltestellen ausgelassen.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-64-umleitungen/",
+    "datetime": "2025-09-10T19:20:18+02:00"
+  },
+  {
+    "content": "Umleitung abends (ab 20.10 Uhr) in Fahrtrichtung WKO-WIFI/tim (bis 24 Uhr).",
+    "link": "https://www.holding-graz.at/de/linie-62-umleitung-richtung-wko-am-24-9/",
+    "datetime": "2025-09-11T14:17:46+02:00"
+  },
+  {
+    "content": "12.9., 14.53 Uhr: Verkehrsüberlastung, Busse stark verspätet",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52-starke-verspaetungen/",
+    "datetime": "2025-09-12T14:56:04+02:00"
+  },
+  {
+    "content": "12.9., 17.13 Uhr: Vorfall Südtirolerplatz, Busse fahren Asperngasse - \"Jako\"",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-ersatzverkehr/",
+    "datetime": "2025-09-12T17:16:45+02:00"
+  },
+  {
+    "content": "Alle Infos zum Ersatzverkehr am 14. September (inkl. Plan).",
+    "link": "https://www.holding-graz.at/de/aufsteirern-alle-infos-zum-ersatzverkehr/",
+    "datetime": "2025-09-12T18:56:31+02:00"
+  },
+  {
+    "content": "13.9., 17.35 Uhr: Vorfall Ragnitz, Linie 58 wendet Berliner Ring.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-58-wende-berliner-ring/",
+    "datetime": "2025-09-13T17:37:58+02:00"
+  },
+  {
+    "content": "13.9., 20.15 Uhr: Unfall, Busse fahren Jakominiplatz - Murpark",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2025-09-13T20:17:26+02:00"
   }
 ]
