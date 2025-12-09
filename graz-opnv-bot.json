@@ -388,5 +388,495 @@
     "content": "12. Oktober, 12:50: Urnenfriedhof kann nicht angefahren werden",
     "link": "https://www.holding-graz.at/de/aktuell-linie-167/",
     "datetime": "2025-10-12T12:55:24+02:00"
+  },
+  {
+    "content": "12. Oktober, 22:30 Uhr: Gleisparker / Schienenersatzverkehr",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1/",
+    "datetime": "2025-10-12T22:55:51+02:00"
+  },
+  {
+    "content": "13.10., 9.45 Uhr: Umleitung ab Zanklstraße Richtung Zentralfriedhof",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-67-umleitung/",
+    "datetime": "2025-10-13T09:48:37+02:00"
+  },
+  {
+    "content": "13.10., 15.10 Uhr: Unfall, Ersatzverkehr Jakominiplatz - Liebenau",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2025-10-13T15:12:34+02:00"
+  },
+  {
+    "content": "Ersatzverkehr in Herbstferien, auch Buslinien betroffen (mit Plänen)",
+    "link": "https://www.holding-graz.at/de/linien-3-5-ersatzverkehr-von-27-10-bis-31-10/",
+    "datetime": "2025-10-13T18:05:07+02:00"
+  },
+  {
+    "content": "13.10., 18.08 Uhr: Unfall, Strecke derzeit nicht passierbar",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-48-kurzfristige-einstellung/",
+    "datetime": "2025-10-13T18:10:50+02:00"
+  },
+  {
+    "content": "14.10., 20:00: Aufgrund eines Vorfalls wendet die Linie 6 am Jakominiplatz.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-einschraenkungen/",
+    "datetime": "2025-10-14T20:07:33+02:00"
+  },
+  {
+    "content": "15.10., 11.50 Uhr: PKW auf Gleisen, Ersatzverkehr \"Jako\" - Andritz",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-3-5-ersatzverkehr/",
+    "datetime": "2025-10-15T11:57:11+02:00"
+  },
+  {
+    "content": "15.10., 17:30: Die Linie 32 ist aufgrund des Verkehrsaufkommens verspätet.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-32-verspaetungen/",
+    "datetime": "2025-10-15T17:49:20+02:00"
+  },
+  {
+    "content": "15.10., 21:59: Wegen eines Vorfalls fährt die Linie 1 nur bis zum Hilmteich.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-einschraenkungen/",
+    "datetime": "2025-10-15T22:01:13+02:00"
+  },
+  {
+    "content": "16.10., 6:49: Wegen eines Vorfalls wird die Linie 39 umgeleitet.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-39-umleitungen/",
+    "datetime": "2025-10-16T06:51:50+02:00"
+  },
+  {
+    "content": "16.10., 7:23: Aufgrund eines Vorfalls wendet die Linie 5 in der Steyrergasse.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-5-einschraenkungen/",
+    "datetime": "2025-10-16T07:30:57+02:00"
+  },
+  {
+    "content": "Umleitung wegen Bauarbeiten in der Messendorfer Straße bis 14. November.",
+    "link": "",
+    "datetime": "2025-10-17T11:34:35+02:00"
+  },
+  {
+    "content": "Auch Änderungen bei den Linien 58, 81 und N1 (mit Plan).",
+    "link": "https://www.holding-graz.at/de/ersatzverkehr-fuer-die-linie-1-ab-3-11-2025-2/",
+    "datetime": "2025-10-20T15:13:21+02:00"
+  },
+  {
+    "content": "20.10., 17.15 Uhr: Hohes Verkehrsaufkommen, etliche Linien verspätet",
+    "link": "https://www.holding-graz.at/de/aktuell-mehrere-buslinien-verspaetet/",
+    "datetime": "2025-10-20T17:17:31+02:00"
+  },
+  {
+    "content": "",
+    "link": "",
+    "datetime": "2025-10-21T09:35:01+02:00"
+  },
+  {
+    "content": "Die Haltestelle Berliner Ring wird ab 27.10. verlegt.",
+    "link": "https://www.holding-graz.at/de/linien-58-61-haltestelle-wird-verlegt/",
+    "datetime": "2025-10-21T15:00:01+02:00"
+  },
+  {
+    "content": "21.10., 15.14 Uhr: Baustelle bremst derzeit den 41er ein.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-41-starke-verspaetung/",
+    "datetime": "2025-10-21T15:16:30+02:00"
+  },
+  {
+    "content": "22.10., 8.37 Uhr: PKW-Unfall, Ersatzverkehr Jakominiplatz - St. Peter",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-ersatzverkehr/",
+    "datetime": "2025-10-22T08:39:50+02:00"
+  },
+  {
+    "content": "22.10., 12.46 Uhr: Gleisparker, Ersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2025-10-22T12:47:53+02:00"
+  },
+  {
+    "content": "22.10., 13.01 Uhr: Unfall, Linie 68 kurzfristig eingestellt.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-68-derzeit-eingestellt/",
+    "datetime": "2025-10-22T13:02:14+02:00"
+  },
+  {
+    "content": "Umstellung auf Winterzeit am 26.10. wirkt sich auf Nightlines aus.",
+    "link": "https://www.holding-graz.at/de/zeitumstellung-nightlines-fahren-doppelt/",
+    "datetime": "2025-10-22T14:07:00+02:00"
+  },
+  {
+    "content": "23.10., 16.03 Uhr: Oberleitungsbruch, Ersatzverkehr Hilmteich - Mariatrost",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr-2/",
+    "datetime": "2025-10-23T16:11:21+02:00"
+  },
+  {
+    "content": "24.10., 7.39 Uhr: Vorfall in Mariatrost, Ersatzverkehr ab Hilmteich",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr/",
+    "datetime": "2025-10-24T07:40:46+02:00"
+  },
+  {
+    "content": "24.10., 9.19 Uhr: Unfall, Ersatzverkehr Laudongasse - Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-7-ersatzverkehr/",
+    "datetime": "2025-10-24T09:21:17+02:00"
+  },
+  {
+    "content": "24.10., 14.53 Uhr: Vorfall Mandellstr., Ersatzverkehr Jakominiplatz - Krenng.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2025-10-24T14:55:13+02:00"
+  },
+  {
+    "content": "27.10., 11.14 Uhr: Rettungseinsatz, Linie muss geteilt werden",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-5-teilung-am-jakominiplatz/",
+    "datetime": "2025-10-27T11:17:12+01:00"
+  },
+  {
+    "content": "27.10., 13.46 Uhr: Vorfall, Ersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-5-ersatzverkehr/",
+    "datetime": "2025-10-27T13:47:12+01:00"
+  },
+  {
+    "content": "Auch Änderungen bei den Linien 58, 81 und N1 (mit Plan).",
+    "link": "https://www.holding-graz.at/de/ersatzverkehr-fuer-die-linie-1-ab-3-11-2025-2/",
+    "datetime": "2025-10-28T00:13:21+01:00"
+  },
+  {
+    "content": "28. Oktober, 7:30 Uhr: Ersatzverkehr zur Smart City",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6/",
+    "datetime": "2025-10-28T07:31:59+01:00"
+  },
+  {
+    "content": "Buslinien wandern am Jakominiplatz ab 3.11. nach Osten.",
+    "link": "https://www.holding-graz.at/de/linien-30-31-39-neue-haltestelle-am-jako/",
+    "datetime": "2025-10-28T11:33:21+01:00"
+  },
+  {
+    "content": "Ab 29.11. gilt neuer Fahrplan - auch Änderungen bei Bussen (inkl. Plan)",
+    "link": "https://www.holding-graz.at/de/neuer-fahrplan-ab-29-11-inkl-linien-16-17/",
+    "datetime": "2025-10-29T05:00:31+01:00"
+  },
+  {
+    "content": "29.10., 7:10 Uhr: Haltestelle der Linie 34 am Jakominiplatz derzeit beim Rondeau",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-34/",
+    "datetime": "2025-10-29T07:15:31+01:00"
+  },
+  {
+    "content": "29.10., 8.58 Uhr: Rettungseinsatz, Bus kann Endstation Andritz nicht anfahren.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-e5-umleitung/",
+    "datetime": "2025-10-29T09:01:15+01:00"
+  },
+  {
+    "content": "29. Oktober, 18:45 Uhr: Umleitung Linie 31,32,33",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-31-32-33/",
+    "datetime": "2025-10-29T18:49:12+01:00"
+  },
+  {
+    "content": "Bremsprobefahrten im Abschnitt Zentralfriedhof – Puntigam.",
+    "link": "https://www.holding-graz.at/de/31-10-ersatzverkehr-fuer-linie-3-5-vormittags/",
+    "datetime": "2025-10-30T13:03:20+01:00"
+  },
+  {
+    "content": "Buslinie 52Z fährt am 1.11., dazu bei Bedarf auch Linie 39E.",
+    "link": "https://www.holding-graz.at/de/allerheiligen-zusaetzliche-busse-im-einsatz/",
+    "datetime": "2025-10-31T13:16:34+01:00"
+  },
+  {
+    "content": "1. November, 16:45 Uhr: Linie 6 wendet Jakominiplatz",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6/",
+    "datetime": "2025-11-01T16:48:52+01:00"
+  },
+  {
+    "content": "2. November, 0:00 Uhr: Nightlines fahren wie gewohnt",
+    "link": "https://www.holding-graz.at/de/aktuell-nightline/",
+    "datetime": "2025-11-02T00:12:54+01:00"
+  },
+  {
+    "content": "3.11., 14.30 Uhr: Gleisparker - Ersatzverkehr Jakominiplatz - Krenngasse.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2025-11-03T14:32:08+01:00"
+  },
+  {
+    "content": "3. November, 19:00 Uhr: Haltestellenverlegung am Jakominiplatz",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-23/",
+    "datetime": "2025-11-03T19:04:54+01:00"
+  },
+  {
+    "content": "Jakominiplatz: Haltestelle der Linie 23 Richtung Krenngasse bis Freitag verlegt.",
+    "link": "https://www.holding-graz.at/de/linie-23-verlegung-von-haltestelle/",
+    "datetime": "2025-11-04T13:38:54+01:00"
+  },
+  {
+    "content": "7.11., 8.38 Uhr: Polizeisperre, 61er wendet bei VS Berliner Ring.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-61-verkuerzung/",
+    "datetime": "2025-11-07T08:41:38+01:00"
+  },
+  {
+    "content": "7.11., 14.14 Uhr: Verkehrsüberlastung, Pendelbus bei Linie 52.",
+    "link": "https://www.holding-graz.at/de/aktuell-mehrere-buslinien-verspaetet/",
+    "datetime": "2025-11-07T14:18:18+01:00"
+  },
+  {
+    "content": "7. November, 18:30 Uhr: Gleisparker Herz Jesu Kirche",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3/",
+    "datetime": "2025-11-07T18:37:48+01:00"
+  },
+  {
+    "content": "8. November, 12:20: Schienenersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3/",
+    "datetime": "2025-11-08T12:27:11+01:00"
+  },
+  {
+    "content": "Adventfahrplan von 29.11. bis 23.12 (inkl. dauerhaften Änderungen).",
+    "link": "",
+    "datetime": "2025-11-10T14:12:26+01:00"
+  },
+  {
+    "content": "Vormittags Anhaltungen bei Bus- und Straßenbahnlinien, Umleitung der Linie 30",
+    "link": "https://www.holding-graz.at/de/14-11-anhaltungen-und-umleitung-wegen-demo/",
+    "datetime": "2025-11-10T14:15:59+01:00"
+  },
+  {
+    "content": "10.11. 16:37: Wegen eines Vorfalls wendet die Linie 1 derzeit in der Laudongasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-einschraenkungen/",
+    "datetime": "2025-11-10T16:39:42+01:00"
+  },
+  {
+    "content": "12.11., 12.01 Uhr: Rettungseinsatz, Ersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2025-11-12T12:13:46+01:00"
+  },
+  {
+    "content": "12.11., 19:05: Aufgrund eines Vorfalls am Griesplatz kommt es zu Umleitungen.",
+    "link": "https://www.holding-graz.at/de/aktuell-umleitungen-mehrerer-linien/",
+    "datetime": "2025-11-12T19:07:20+01:00"
+  },
+  {
+    "content": "13.11., 9.09 Uhr: Fremdunfall, Busse müssen umgeleitet werden.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-34-34-e-umleitung/",
+    "datetime": "2025-11-13T09:15:32+01:00"
+  },
+  {
+    "content": "13.11., 12.04 Uhr: Wende bereits am Berliner Ring.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-58-verkuerzte-strecke/",
+    "datetime": "2025-11-13T12:07:45+01:00"
+  },
+  {
+    "content": "Neue Haltestelle in Richtung St. Leonhard 40 Meter von bisheriger entfernt.",
+    "link": "https://www.holding-graz.at/de/haltestelle-waltendorfer-guertel-verlegt/",
+    "datetime": "2025-11-13T12:47:28+01:00"
+  },
+  {
+    "content": "Haltestelle der Linie 41 wurde neu errichtet und eingerichtet.",
+    "link": "https://www.holding-graz.at/de/haltestelle-wifi-neu-errichtet/",
+    "datetime": "2025-11-13T12:49:50+01:00"
+  },
+  {
+    "content": "13.11., 14.29 Uhr: Vorfall, Linie 64 muss Haltestellen auslassen.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-64-umleitung/",
+    "datetime": "2025-11-13T14:31:11+01:00"
+  },
+  {
+    "content": "13.11., 19:45: Einschränkungen wegen eines Vorfalls in der Annenstraße.",
+    "link": "https://www.holding-graz.at/de/aktuell-mehrere-linien-betroffen/",
+    "datetime": "2025-11-13T19:51:36+01:00"
+  },
+  {
+    "content": "14.11., 10.26 Uhr: Ersatzverkehr ab ca. 10.45 Uhr",
+    "link": "https://www.holding-graz.at/de/aktuell-alle-strassenbahnen-ersatzverkehr-demo/",
+    "datetime": "2025-11-14T10:32:12+01:00"
+  },
+  {
+    "content": "15.11., 10:19: Wegen eines Vorfalls wendet die Linie 7 in der Laudongasse.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-7-einschraenkungen/",
+    "datetime": "2025-11-15T10:27:00+01:00"
+  },
+  {
+    "content": "16.11., 11:20: Umleitungen aufgrund einer polizeilichen Sperre am Hauptplatz.",
+    "link": "https://www.holding-graz.at/de/aktuell-alle-linien-betroffen/",
+    "datetime": "2025-11-16T11:29:46+01:00"
+  },
+  {
+    "content": "17.11., 9.29 Uhr: Unfall, Ersatzverkehr Schulzentrum - St. Peter",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-ersatzverkehr/",
+    "datetime": "2025-11-17T09:31:31+01:00"
+  },
+  {
+    "content": "19.11., 14.05 Uhr: Baustelle stoppt den 41er derzeit",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-41-verspaetungen/",
+    "datetime": "2025-11-19T14:10:50+01:00"
+  },
+  {
+    "content": "Harter Straße statt Webling als neue Endstation.",
+    "link": "",
+    "datetime": "2025-11-19T14:14:10+01:00"
+  },
+  {
+    "content": "Busse fahren künftig zur Dr.-Renner-Schule statt zum Zentralfriedhof.",
+    "link": "https://www.holding-graz.at/de/linien-67-67e-neue-streckenfuehrung/",
+    "datetime": "2025-11-19T14:19:10+01:00"
+  },
+  {
+    "content": "Betroffen sind die Linien 34, 34E, 67 und N8.",
+    "link": "https://www.holding-graz.at/de/kasernstrasse-aenderungen-bei-haltestellen/",
+    "datetime": "2025-11-19T14:24:34+01:00"
+  },
+  {
+    "content": "19.11., 15.32 Uhr: Rettungseinsatz, Ersatzverkehr Laudongasse - Reininghaus",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2025-11-19T15:34:13+01:00"
+  },
+  {
+    "content": "19.11., 15.57 Uhr: PKW-Unfall, Ersatzverkehr Jakominiplatz - St. Peter",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-ersatzverkehr/",
+    "datetime": "2025-11-19T15:59:23+01:00"
+  },
+  {
+    "content": "20.11., 17.35 Uhr: Ersatzverkehr Jakominiplatz - St. Peter",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-ersatzverkehr/",
+    "datetime": "2025-11-20T17:37:56+01:00"
+  },
+  {
+    "content": "Haltestelle Bauernfeldstraße (Linie 62) in Richtung WKO – WIFI/tim.",
+    "link": "https://www.holding-graz.at/de/linie-62-haltestelle-wurde-verlegt/",
+    "datetime": "2025-11-20T19:25:09+01:00"
+  },
+  {
+    "content": "21.11., 10.38 Uhr: Polizeieinsatz, Haltestelle Zentralfriedhof verlegt",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-52-und-67-haltestelle-verlegt/",
+    "datetime": "2025-11-21T10:41:02+01:00"
+  },
+  {
+    "content": "Verkürzung nur abends wegen Bauarbeiten.",
+    "link": "https://www.holding-graz.at/de/24-11-verkuerzung-der-linie-62/",
+    "datetime": "2025-11-21T16:57:03+01:00"
+  },
+  {
+    "content": "21.11., 21.05 Uhr: PKW-Unfall, Umleitung ab Jakominiplatz",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-34-umleitung/",
+    "datetime": "2025-11-21T21:10:10+01:00"
+  },
+  {
+    "content": "22.11., 14.31 Uhr: Vorfall Grazer Straße, Ersatzverkehr ab Jakominiplatz",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-3-5-ersatzverkehr/",
+    "datetime": "2025-11-22T14:33:17+01:00"
+  },
+  {
+    "content": "Linie 30 wird umgeleitet, Straßenbahnen und Busse werden angehalten.",
+    "link": "https://www.holding-graz.at/de/demo-am-29-11-umleitung-und-anhaltungen/",
+    "datetime": "2025-11-24T05:15:46+01:00"
+  },
+  {
+    "content": "24.11., 14.05 Uhr: Baustelle, Pendelverkehr Andritz - Dürrgrabenweg",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-41-pendelverkehr/",
+    "datetime": "2025-11-24T14:24:56+01:00"
+  },
+  {
+    "content": "25. November, 7:40 Uhr: starke Verspätungen aufgrund von Stau",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-e1/",
+    "datetime": "2025-11-25T07:46:34+01:00"
+  },
+  {
+    "content": "Asphaltierungsarbeiten, Urnenfriedhof nicht anfahrbar.",
+    "link": "",
+    "datetime": "2025-11-25T07:58:31+01:00"
+  },
+  {
+    "content": "Poller-Reparatur: Linie 64 am 3.12. vormittags umgeleitet.",
+    "link": "https://www.holding-graz.at/de/3-12-umleitung-der-linie-64/",
+    "datetime": "2025-11-25T15:56:18+01:00"
+  },
+  {
+    "content": "26.11., 10.06 Uhr: Brand am Hauptbahnhof, 62er muss ausweichen",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-62-grossraeumige-umleitung/",
+    "datetime": "2025-11-26T10:09:36+01:00"
+  },
+  {
+    "content": "Haltestelle in Richtung Puntigam auf der Linie 65 wird verlegt.",
+    "link": "https://www.holding-graz.at/de/haltestelle-glesingerstrasse-neu-errichtet/",
+    "datetime": "2025-11-26T11:42:42+01:00"
+  },
+  {
+    "content": "27.11., 12.12 Uhr: Rettungseinsatz, Busse fahren \"Jako\" - Asperngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-ersatzverkehr/",
+    "datetime": "2025-11-27T13:14:25+01:00"
+  },
+  {
+    "content": "27.11., 17:15 Uhr",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52/",
+    "datetime": "2025-11-27T17:18:43+01:00"
+  },
+  {
+    "content": "Graz Linien fahren am Montag nach Adventsamstagsfahrplan.",
+    "link": "https://www.holding-graz.at/de/8-12-samstagfahrplan-gilt/",
+    "datetime": "2025-12-01T15:35:04+01:00"
+  },
+  {
+    "content": "Mögliche Anhaltungen nur am Vormittag (10 - 12 Uhr)",
+    "link": "https://www.holding-graz.at/de/8-12-demo-anhaltungen-bei-linie-30/",
+    "datetime": "2025-12-02T09:45:42+01:00"
+  },
+  {
+    "content": "Anhaltungen bei Straßenbahnen und Buslinien am Nachmittag.",
+    "link": "https://www.holding-graz.at/de/8-12-anhaltungen-wegen-demonstration/",
+    "datetime": "2025-12-02T09:48:19+01:00"
+  },
+  {
+    "content": "3.12., 11.58 Uhr: Baustelle Glacis, 39er und 31er stark verspätet",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-39-und-31-verspaetungen/",
+    "datetime": "2025-12-03T12:00:38+01:00"
+  },
+  {
+    "content": "3.12., 18.30 Uhr: Rettungseinsatz, Ersatzbusse Asperngasse - Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-7-und-17-ersatzverkehr/",
+    "datetime": "2025-12-03T18:32:47+01:00"
+  },
+  {
+    "content": "4.12., 19.19 Uhr: PKW-Unfall, 4 & 5 fahren über Remise",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-4-5-umleitung/",
+    "datetime": "2025-12-04T19:21:54+01:00"
+  },
+  {
+    "content": "Fanmarsch sorgt für Anhaltungen, zusätzliche Busse und Straßenbahnen im Einsatz",
+    "link": "https://www.holding-graz.at/de/derby-am-7-12-alle-oeffi-infos/",
+    "datetime": "2025-12-05T11:29:22+01:00"
+  },
+  {
+    "content": "",
+    "link": "",
+    "datetime": "2025-12-05T14:14:58+01:00"
+  },
+  {
+    "content": "6.12., 14.25 Uhr: PKW-Unfall, Umleitung stadtauswärts",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-32-umleitung-in-strassgang/",
+    "datetime": "2025-12-06T14:27:58+01:00"
+  },
+  {
+    "content": "6.12., 17.29 Uhr: Rettungseinsatz, Straßenbahnen stadteinwärts umgeleitet",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-und-7-fahren-ueber-neutorlinie/",
+    "datetime": "2025-12-06T17:31:03+01:00"
+  },
+  {
+    "content": "7.12., 14.08 Uhr: Derby, 4er fährt bis Stadion, Busse fahren Murpark",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-kurzfuehrung/",
+    "datetime": "2025-12-07T14:11:27+01:00"
+  },
+  {
+    "content": "8.12., 14.53 Uhr: Demo sorgt für Umleitung des 16ers",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-16-umleitung-ueber-hauptplatz/",
+    "datetime": "2025-12-08T14:54:19+01:00"
+  },
+  {
+    "content": "",
+    "link": "",
+    "datetime": "2025-12-09T09:14:29+01:00"
+  },
+  {
+    "content": "9.12., 9.28 Uhr: Blockabfertigung Südgürtel sorgt für Stau",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-64-verspaetungen/",
+    "datetime": "2025-12-09T09:30:06+01:00"
+  },
+  {
+    "content": "9.12., 10.30 Uhr: Stau am Glacis bremst 39er ein.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-39-verspaetungen/",
+    "datetime": "2025-12-09T10:31:53+01:00"
+  },
+  {
+    "content": "9.12., 14.05 Uhr: PKW-Unfall, Umleitung",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-75-umleitung/",
+    "datetime": "2025-12-09T14:11:18+01:00"
+  },
+  {
+    "content": "",
+    "link": "",
+    "datetime": "2025-12-09T14:14:46+01:00"
   }
 ]
