@@ -2,7 +2,7 @@
 name = "graz-opnv-bot"
 version = "0.1.1"
 edition = "2024"
-authors = ["Thomas Lienbacher <thomas@lienbacher.dev"]
+authors = ["Thomas Lienbacher <thomas@lienbacher.dev>"]
 
 [dependencies]
 chrono = { version = "0.4.41", features = ["serde"] }
