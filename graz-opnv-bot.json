@@ -1,5 +1,10 @@
 [
   {
+    "content": "Neu in der App: Infos zu Umleitungen & Ersatzverkehren bei Veranstaltungen etc.",
+    "link": "https://www.holding-graz.at/de/app-grazmobil-nun-auch-news-funktion/",
+    "datetime": "2023-12-19T10:49:07+01:00"
+  },
+  {
     "content": "Beide Linien werden bis Ende 2025 umgeleitet.",
     "link": "https://www.holding-graz.at/de/linien-67-67e-umleitung-ab-8-1-2024/",
     "datetime": "2024-01-02T11:44:35+01:00"
@@ -1083,5 +1088,105 @@
     "content": "1.1. 00:38 Uhr: Aufgrund eines Vorfalls SEV für die Linien 1, 17, 39, 58.",
     "link": "https://www.holding-graz.at/de/aktuell-mehrere-linien-betroffen/",
     "datetime": "2026-01-01T00:49:51+01:00"
+  },
+  {
+    "content": "Anhaltungen zwischen 17 und 18 Uhr, betroffen sind alle Linien.",
+    "link": "https://www.holding-graz.at/de/demo-am-24-1-strassenbahn-anhaltungen/",
+    "datetime": "2026-01-07T16:13:19+01:00"
+  },
+  {
+    "content": "Bremsprobefahrten zwischen Zentralfriedhof und Puntigam (9 bis 12 Uhr)",
+    "link": "https://www.holding-graz.at/de/20-1-ersatzverkehr-linie-5-bereich-puntigam/",
+    "datetime": "2026-01-16T13:01:04+01:00"
+  },
+  {
+    "content": "Anhaltungen zwischen 17 und 18 Uhr, betroffen sind alle Linien.",
+    "link": "https://www.holding-graz.at/de/demo-am-24-1-strassenbahn-anhaltungen/",
+    "datetime": "2026-01-22T14:13:19+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 4, 6, 7, 17, 31, 32, 33, 40 und 67 (17.30 - 18.30 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-am-23-1-anhaltungen/",
+    "datetime": "2026-01-22T15:10:03+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 4, 7, 16, 31E, 32, 33, 40, 52 und 67.",
+    "link": "https://www.holding-graz.at/de/demo-am-24-1-ii-anhaltungen-bei-oeffis/",
+    "datetime": "2026-01-22T15:35:42+01:00"
+  },
+  {
+    "content": "23.1., 8.35 Uhr: Rettungseinsatz LKH, Ersatzbusse ab Reiterkaserne",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-7-17-ersatzverkehr/",
+    "datetime": "2026-01-23T08:37:20+01:00"
+  },
+  {
+    "content": "23.1. 19:26 Uhr: Die Linie 3 wendet derzeit am Jakominiplatz.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-einschraenkungen/",
+    "datetime": "2026-01-23T19:31:41+01:00"
+  },
+  {
+    "content": "24.1. 16:15: Die Linien 3 und 5 wenden am Jakominiplatz.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-3-und-5-einschraenkungen/",
+    "datetime": "2026-01-24T16:22:07+01:00"
+  },
+  {
+    "content": "Bim-Anhaltungen an Samstag zwischen ca. 13 Uhr bis ca. 14.30 Uhr",
+    "link": "https://www.holding-graz.at/de/versammlung-am-31-1-anhaltungen/",
+    "datetime": "2026-01-25T13:19:52+01:00"
+  },
+  {
+    "content": "Sperre Franz-Graf-Allee, 30er lässt Haltestellen aus.",
+    "link": "https://www.holding-graz.at/de/29-1-31-1-umleitung-linie-30/",
+    "datetime": "2026-01-25T15:37:00+01:00"
+  },
+  {
+    "content": "25.1. 18:25: Aufgrund eines Vorfalls in der Annenstraße fährt ein Ersatzverkehr.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-14167-einschraenkungen/",
+    "datetime": "2026-01-25T18:27:59+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 4, 6, 7, 40, 52, 62,67 (ca. 17.30 - 18 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-am-28-1-anhaltungen-bei-bus-bim/",
+    "datetime": "2026-01-27T14:23:43+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 4, 6, 17, 31, 32, 40 und 67 (17.30 - 18.30)",
+    "link": "https://www.holding-graz.at/de/demo-am-30-1-anhaltungen-bei-bus-bim/",
+    "datetime": "2026-01-27T15:51:30+01:00"
+  },
+  {
+    "content": "28.1., 12.17 Uhr: Unfall Roseggerhaus, Busse fahren \"Jako\" - Asperngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-17-ersatzverkehr/",
+    "datetime": "2026-01-28T12:10:04+01:00"
+  },
+  {
+    "content": "Betroffen sind die Linien 40, 52, 53, 58, 62, 63, 67 (ca. 17 - 17.30 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-am-31-1-anhaltungen-umleitungen/",
+    "datetime": "2026-01-29T13:52:36+01:00"
+  },
+  {
+    "content": "",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-5/",
+    "datetime": "2026-01-30T06:03:04+01:00"
+  },
+  {
+    "content": "30.1., 9.53 Uhr: Rettungseinsatz, Busse fahren ab Asperngasse nach Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-7-17-ersatzverkehr/",
+    "datetime": "2026-01-30T09:55:33+01:00"
+  },
+  {
+    "content": "30.1., 12.56 Uhr: Unfall, Busse ab Geidorfplatz umgeleitet bzw. Kurzführung.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-41-und-62-umgeleitet/",
+    "datetime": "2026-01-30T12:57:36+01:00"
+  },
+  {
+    "content": "31. Jänner, 1:30 Uhr: Umleitung N4",
+    "link": "https://www.holding-graz.at/de/aktuell-n4/",
+    "datetime": "2026-01-31T01:38:02+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 4, 7, 16, 40, 52Z, 62 und 67E (ab ca. 16.30 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-heute-1-2-anhaltungen-bei-oeffis/",
+    "datetime": "2026-02-01T12:46:01+01:00"
   }
 ]
