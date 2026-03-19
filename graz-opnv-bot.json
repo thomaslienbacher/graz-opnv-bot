@@ -1188,5 +1188,345 @@
     "content": "Betroffen: Linien 1, 4, 7, 16, 40, 52Z, 62 und 67E (ab ca. 16.30 Uhr)",
     "link": "https://www.holding-graz.at/de/demo-heute-1-2-anhaltungen-bei-oeffis/",
     "datetime": "2026-02-01T12:46:01+01:00"
+  },
+  {
+    "content": "Betroffene Linien: 1, 4, 6, 7, 17, 31, 32, 33, 40 und 67 (ab ca. 17.30 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-heute-4-2-oeffi-anhaltungen/",
+    "datetime": "2026-02-04T11:39:18+01:00"
+  },
+  {
+    "content": "Betroffen sind die Linien 1, 3, 4, 5 und 7 (ab ca. 16.30 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-am-7-2-strassenbahn-anhaltungen/",
+    "datetime": "2026-02-04T11:41:52+01:00"
+  },
+  {
+    "content": "4.2., 16.21 Uhr: Rettungseinsatz Lichtenfelsgasse, Busse fahren",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-7-ersatzverkehr/",
+    "datetime": "2026-02-04T16:23:07+01:00"
+  },
+  {
+    "content": "5.2., 14.18 Uhr: Rettungseinsatz, Ersatzverkehr Jakominiplatz - Puntigam",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-5-ersatzverkehr/",
+    "datetime": "2026-02-05T14:20:47+01:00"
+  },
+  {
+    "content": "Betroffen sind Linien 40, 52, 53, 58, 62, 63 & 67 (ca. 14.30 - 15 Uhr)",
+    "link": "https://www.holding-graz.at/de/demo-am-7-2-oeffi-anhaltungen/",
+    "datetime": "2026-02-05T17:35:46+01:00"
+  },
+  {
+    "content": "6.2., 8.04 Uhr: Umleitung Richtung Wetzelsdorf über Hauptplatz.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-17-umleitung/",
+    "datetime": "2026-02-06T08:06:09+01:00"
+  },
+  {
+    "content": "8.2., 20.25 Uhr: Unfall, auch Linie 67E betroffen.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-16-umleitung-ueber-hauptplatz/",
+    "datetime": "2026-02-08T20:27:55+01:00"
+  },
+  {
+    "content": "9.2., 13.13 Uhr: Polizeieinsatz, Busse fahren Jakominiplatz - St. Peter",
+    "link": "",
+    "datetime": "2026-02-09T13:14:36+01:00"
+  },
+  {
+    "content": "9.2., 13.13 Uhr: Polizeieinsatz, Busse fahren Jakominiplatz - St. Peter",
+    "link": "https://www.holding-graz.at/de/meldung-st-peter/",
+    "datetime": "2026-02-09T13:36:24+01:00"
+  },
+  {
+    "content": "10.1., 11.51 Uhr: Unfall am Bahnhof, großräumige Umleitung.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52-umleitung/",
+    "datetime": "2026-02-10T11:55:46+01:00"
+  },
+  {
+    "content": "17.2.:  Ersatzverkehr bei Straßenbahnen und Umleitungen bei Bussen (mit Plan)",
+    "link": "https://www.holding-graz.at/de/faschingdienstag-alle-oeffi-infos/",
+    "datetime": "2026-02-10T12:04:32+01:00"
+  },
+  {
+    "content": "Graz Linien fahren bis 22. Februar im Ferienfahrplan.",
+    "link": "https://www.holding-graz.at/de/ab-14-2-gilt-wieder-der-ferienfahrplan/",
+    "datetime": "2026-02-10T14:02:55+01:00"
+  },
+  {
+    "content": "Bremsprobefahrten der Flexity-Straßenbahn (Abschnitt Zentralfriedhof – Puntigam)",
+    "link": "https://www.holding-graz.at/de/linie-5-ersatzverkehr-am-18-19-2/",
+    "datetime": "2026-02-14T13:22:05+01:00"
+  },
+  {
+    "content": "16.2., 10.11 Uhr: Sperre Plabutschtunnel, Linien 52 und 62 verspätet",
+    "link": "https://www.holding-graz.at/de/aktuell-mehrere-buslinien-verspaetet/",
+    "datetime": "2026-02-16T10:13:51+01:00"
+  },
+  {
+    "content": "20. Februar, 05:15 Uhr: Umleitung Linie 48",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-48/",
+    "datetime": "2026-02-20T05:22:55+01:00"
+  },
+  {
+    "content": "20. Februar, 05:20 Uhr: derzeit kein Betrieb der Linien 68 und 69",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-68-und-69/",
+    "datetime": "2026-02-20T05:25:32+01:00"
+  },
+  {
+    "content": "20.2., 10.08 Uhr: Umgestürzter Baum auf Fahrbahn, Strecke gesperrt",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-48-betrieb-eingestellt/",
+    "datetime": "2026-02-20T10:16:48+01:00"
+  },
+  {
+    "content": "20.2., 11.17 Uhr: Straßenverhältnisse sorgen für Einstellung",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-69-betrieb-eingestellt/",
+    "datetime": "2026-02-20T11:19:41+01:00"
+  },
+  {
+    "content": "20.2., 11.26 Uhr: 53er muss in Oberandritz wenden",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-53-strecke-verkuerzt/",
+    "datetime": "2026-02-20T11:28:41+01:00"
+  },
+  {
+    "content": "20.2., 12.01 Uhr: Ersatzlinie E 1 wendet bei Park & Ride-Anlage Fölling",
+    "link": "https://www.holding-graz.at/de/aktuell-e1-endstation-mariatrost-nicht-anfahrbar/",
+    "datetime": "2026-02-20T12:06:41+01:00"
+  },
+  {
+    "content": "20.2., 12.15 Uhr: Linie 58 kann derzeit nicht nach Ragnitz fahren",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-58-verkuerzung/",
+    "datetime": "2026-02-20T12:17:52+01:00"
+  },
+  {
+    "content": "20.2., 12.16 Uhr: 41er muss wegen Schneefahrbahn in Andritz wenden",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-41-kurzfuehrung/",
+    "datetime": "2026-02-20T12:27:54+01:00"
+  },
+  {
+    "content": "20.2., 12.46 Uhr: Defekte Bahnschranken im Grazer Westen",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-66-umleitung/",
+    "datetime": "2026-02-20T12:50:32+01:00"
+  },
+  {
+    "content": "20.2., 14.57 Uhr: Feuerwehreinsatz, Linie eingestellt",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-82-einstellung/",
+    "datetime": "2026-02-20T14:59:11+01:00"
+  },
+  {
+    "content": "20.2., 15.26 Uhr: 53er muss in Oberandritz wenden",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-53-strecke-verkuerzt/",
+    "datetime": "2026-02-20T15:20:41+01:00"
+  },
+  {
+    "content": "20. Februar, 19:45: Verspätungen Linie 66",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-66/",
+    "datetime": "2026-02-20T19:51:59+01:00"
+  },
+  {
+    "content": "21. Februar, 15:15 Uhr: Umleitung Linien 1,4,6 und 7",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1467/",
+    "datetime": "2026-02-21T15:25:29+01:00"
+  },
+  {
+    "content": "22. Februar, 21:50 Uhr: Umleitung Linie 16",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-16/",
+    "datetime": "2026-02-22T21:59:10+01:00"
+  },
+  {
+    "content": "Anhaltungen bei Straßenbahnlinien 1, 3, 4, 5 und 7 und Buslinie 30.",
+    "link": "https://www.holding-graz.at/de/versammlung-am-28-2-oeffi-anhaltungen/",
+    "datetime": "2026-02-23T05:39:08+01:00"
+  },
+  {
+    "content": "23.2., 12.07 Uhr: Rettungseinsatz, Linien fahren stadtauswärts über Neutorlinie.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-umleitung/",
+    "datetime": "2026-02-23T12:09:37+01:00"
+  },
+  {
+    "content": "23.2., 14.44 Uhr: Rettungseinsatz, Ersatzverkehr Remise 3 - Eggenberg.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr/",
+    "datetime": "2026-02-23T14:46:32+01:00"
+  },
+  {
+    "content": "24.2., 9.03 Uhr: Rettungseinsatz, Erstatzverkehr Laudongasse Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-4-7-17-ersatzverkehr/",
+    "datetime": "2026-02-24T09:06:20+01:00"
+  },
+  {
+    "content": "25.2., 7.55 Uhr: Sperre Südgürtel, Stau sorgt für Verspätungen",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-64-72-74-starke-verspaetungen/",
+    "datetime": "2026-02-25T07:57:59+01:00"
+  },
+  {
+    "content": "25.2., 10.53 Uhr: PKW-Unfall, Ersatzverkehr ab Laudongasse.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-62-ersatzverkehr-umleitung/",
+    "datetime": "2026-02-25T10:55:50+01:00"
+  },
+  {
+    "content": "25.2., 11.33 Uhr: Rettungseinsatz, Ersatzverkehr Laudongasse - Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-7-17-ersatzverkehr/",
+    "datetime": "2026-02-25T11:35:38+01:00"
+  },
+  {
+    "content": "Haltestelle der Linien E1 und N1 wird ab 9. März neu eingerichtet.",
+    "link": "https://www.holding-graz.at/de/neue-haltestelle-waldhof-rettenbachklamm/",
+    "datetime": "2026-02-27T11:01:58+01:00"
+  },
+  {
+    "content": "27.2., 13.05 Uhr: Unfall, Ersatzverkehr Jakominiplatz - Steyrergasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-4-5-ersatzverkehr/",
+    "datetime": "2026-02-27T13:08:09+01:00"
+  },
+  {
+    "content": "27.2., 13.35 Uhr: Unfall, Ersatzverkehr Jakominiplatz - St. Peter",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-6-ersatzverkehr/",
+    "datetime": "2026-02-27T13:36:53+01:00"
+  },
+  {
+    "content": "27.2., 13.58 Uhr: Parkende Fahrzeuge versperren Strecke",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-68-einstellung/",
+    "datetime": "2026-02-27T13:59:52+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 3, 4, 5, 7, 16, 30, 40, 52, 62 & 67",
+    "link": "https://www.holding-graz.at/de/7-3-demo-anhaltungen-und-umleitungen/",
+    "datetime": "2026-03-02T05:00:48+01:00"
+  },
+  {
+    "content": "2.3., 9.56 Uhr: Sperre Plabutschtunnel, auch Linie 62 betroffen.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52-starke-verspaetung/",
+    "datetime": "2026-03-02T09:59:11+01:00"
+  },
+  {
+    "content": "2.3., 11.29 Uhr: Haltestellen ÖGK und Wielandgasse nicht anfahrbar.",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-30-31-32-33-39-40-umleitung/",
+    "datetime": "2026-03-02T11:31:48+01:00"
+  },
+  {
+    "content": "2.3., 15.27 Uhr: Gleisparker, Ersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2026-03-02T15:28:58+01:00"
+  },
+  {
+    "content": "3.3., 9.12 Uhr: Unfall, Ersatzverkehr Laudongasse - Reininghaus",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2026-03-03T09:13:39+01:00"
+  },
+  {
+    "content": "3.3., 15.34 Uhr: Unfall, Ersatzverkehre Jakominiplatz - LKH/Hilmteich",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-7-17-ersatzverkehr/",
+    "datetime": "2026-03-03T15:38:08+01:00"
+  },
+  {
+    "content": "Gas-Elementarschaden am Rosenberggürtel sorgt für Umleitung",
+    "link": "https://www.holding-graz.at/de/linie-30-umleitung-wegen-baustelle/",
+    "datetime": "2026-03-04T14:19:41+01:00"
+  },
+  {
+    "content": "Betroffen: Linien 1, 3, 4, 5, 7, 16, 30, 40, 52, 62 & 67",
+    "link": "https://www.holding-graz.at/de/7-3-demo-anhaltungen-und-umleitungen/",
+    "datetime": "2026-03-07T05:00:48+01:00"
+  },
+  {
+    "content": "7.3., 9:16 Uhr: Umleitung der Linie 62 über den Grabengürtel.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-62-umleitung/",
+    "datetime": "2026-03-07T09:19:50+01:00"
+  },
+  {
+    "content": "7.3., 21:03 Uhr: Ersatzverkehr vom Jakominiplatz bis Krenngasse.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-23-einschraenkungen/",
+    "datetime": "2026-03-07T21:05:23+01:00"
+  },
+  {
+    "content": "9.3., 12.51 Uhr: Vorfall Laudongasse, Busse fahren Remise 3 - Eggenberg.",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr/",
+    "datetime": "2026-03-09T12:52:56+01:00"
+  },
+  {
+    "content": "Linie 64 wird ab 30.3. wegen Bauarbeiten in zwei Linienäste aufgeteilt.",
+    "link": "https://www.holding-graz.at/de/linie-64-zweiteilung-ab-30-maerz/",
+    "datetime": "2026-03-09T14:34:46+01:00"
+  },
+  {
+    "content": "9.3., 23:00 Uhr: Umleitung mehrerer Linien",
+    "link": "https://www.holding-graz.at/de/aktuell-wielandgasse/",
+    "datetime": "2026-03-09T23:04:49+01:00"
+  },
+  {
+    "content": "10.3., 10.08 Uhr: Unfall Georgigasse, auch Linie 62 betroffen",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr/",
+    "datetime": "2026-03-10T10:12:01+01:00"
+  },
+  {
+    "content": "Samstag: Kurze Anhaltungen nachmittags bei Linien 1, 4, 6, 7 & 16.",
+    "link": "https://www.holding-graz.at/de/demo-am-14-3-anhaltungen-bei-oeffis/",
+    "datetime": "2026-03-11T10:43:59+01:00"
+  },
+  {
+    "content": "11.3., 15.20 Uhr: Unfall, Ersatzverkehr Laudongasse - Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-7-und-17-ersatzverkehr/",
+    "datetime": "2026-03-11T15:24:47+01:00"
+  },
+  {
+    "content": "12.3., 15.51 Uhr: Unfall, Ersatzverkehr Laudongasse - Wetzelsdorf",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-7-und-17-ersatzverkehr/",
+    "datetime": "2026-03-12T15:54:08+01:00"
+  },
+  {
+    "content": "12.3, 18:20 Uhr: Gleisparker",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3/",
+    "datetime": "2026-03-12T18:30:01+01:00"
+  },
+  {
+    "content": "13. März, 15:10 Uhr: großflächige Umleitung Linien 31, 62 und 65",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-31-62-und-65/",
+    "datetime": "2026-03-13T15:16:50+01:00"
+  },
+  {
+    "content": "Bauarbeiten Elisabethinergasse: Linien werde umgeleitet (mit Plan)",
+    "link": "https://www.holding-graz.at/de/linien-40-67-und-n3-umleitung-ab-30-maerz/",
+    "datetime": "2026-03-15T08:21:48+01:00"
+  },
+  {
+    "content": "16.3., 15.48 Uhr: Stromausfall Annenstraße, Busse fahren \"Jako\" - Laudongasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-17-ersatzverkehr/",
+    "datetime": "2026-03-16T15:49:12+01:00"
+  },
+  {
+    "content": "16.3., 17.29 Uhr: Stromausfall Annenstraße, weiterhin Störungen",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-1-4-6-7-17-einschraenkungen/",
+    "datetime": "2026-03-16T17:43:25+01:00"
+  },
+  {
+    "content": "16.3., 19.41 Uhr: Polizeieinsatz, Ersatzverkehr Laudongasse - UKH",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-1-ersatzverkehr/",
+    "datetime": "2026-03-16T19:44:01+01:00"
+  },
+  {
+    "content": "Haltestelle „Karlauer Kirche/Citypark“ ab 23.3. verlegt (Richtung Griesplatz)",
+    "link": "https://www.holding-graz.at/de/linien-30-39-67-haltestellenverlegung/",
+    "datetime": "2026-03-17T11:42:14+01:00"
+  },
+  {
+    "content": "17.3., 18.19 Uhr: Unfall, Ersatzverkehr Jakominiplatz - Liebenau",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2026-03-17T18:21:23+01:00"
+  },
+  {
+    "content": "18.3., 16.11 Uhr: Vorfall, Ersatzverkehr Jakominiplatz - Krenngasse",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-3-ersatzverkehr/",
+    "datetime": "2026-03-18T16:13:54+01:00"
+  },
+  {
+    "content": "18.3., 17.46 Uhr: Feuerwehreinsatz, Umleitung Richtung Andritz",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-52-umleitung/",
+    "datetime": "2026-03-18T17:49:54+01:00"
+  },
+  {
+    "content": "18.3., 18.21 Uhr: Nach Feuerwehreinsatz starke Verspätungen",
+    "link": "https://www.holding-graz.at/de/aktuell-linien-39-52-66-67-verspaetung/",
+    "datetime": "2026-03-18T18:24:50+01:00"
+  },
+  {
+    "content": "18.3., 19.09 Uhr: Unfall, Ersatzverkehr Laudongasse - Reininghaus",
+    "link": "https://www.holding-graz.at/de/aktuell-linie-4-ersatzverkehr/",
+    "datetime": "2026-03-18T19:22:24+01:00"
   }
 ]
